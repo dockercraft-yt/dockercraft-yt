@@ -5,7 +5,7 @@ Fachinformatiker für Systemintegration. Auf DockerCraft zeige ich, wie du Conta
 
 Woran ich gerade baue
 
-Zentrales Logging mit Grafana Alloy, Loki und Grafana.<br> Kubernetes (K3s) auf einem Raspberry-Pi-Cluster.<br> Home-Assistant-Add-ons und Sensoren für den Alltag.
+Zentrales Logging mit Grafana Alloy, Loki und Grafana.<br> Home-Assistant-Add-ons und Sensoren für den Alltag.
 
 Stack
 
